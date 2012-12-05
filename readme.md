@@ -4,8 +4,8 @@ Animated letters of UILabel in circular way.
 
 Video preview: http://www.youtube.com/embed/qGB4Ob0uUFU
 
-![A Screenshot](https://github.com/elpsk/APScroller/blob/master/A.png "A")
-![B Screenshot](https://github.com/elpsk/APScroller/blob/master/A.png "B")
+![A Screenshot](https://raw.github.com/elpsk/APScroller/master/A.png "A")
+![B Screenshot](https://raw.github.com/elpsk/APScroller/master/B.png "B")
 
 ## How to use
 
