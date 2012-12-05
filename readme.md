@@ -2,7 +2,7 @@
 
 Animated letters of UILabel in circular way.
 
-VIDEO PREVIEW: http://youtu.be/qGB4Ob0uUFU
+|video|(http://youtu.be/qGB4Ob0uUFU)
 
 
 ## How to use
