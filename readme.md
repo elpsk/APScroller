@@ -7,6 +7,9 @@ Video preview: http://www.youtube.com/embed/qGB4Ob0uUFU
 ![A Screenshot](https://raw.github.com/elpsk/APScroller/master/A.png "A")
 ![B Screenshot](https://raw.github.com/elpsk/APScroller/master/B.png "B")
 
+More example on www.albertopasca.it/whiletrue
+
+
 ## How to use
 
 very easy:
