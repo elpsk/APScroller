@@ -2,6 +2,8 @@
 
 Animated letters of UILabel in circular way.
 
+iOS 5+. ARC.
+
 Video preview: http://youtu.be/qGB4Ob0uUFU
 
 ![A Screenshot](https://raw.github.com/elpsk/APScroller/master/A.png "A")
