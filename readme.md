@@ -2,7 +2,7 @@
 
 Animated letters of UILabel in circular way.
 
-iOS 5+. ARC.
+iOS 4.3+. ARC.
 
 Video preview: http://youtu.be/qGB4Ob0uUFU
 
